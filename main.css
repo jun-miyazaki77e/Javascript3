@@ -1,0 +1,50 @@
+#oninput {
+    width:800px;
+    height: 20px;
+}
+p {
+    margin-left: 30px;
+}
+.box {
+    width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    margin:20px;
+}
+.add_hidden {
+  display: none
+}
+.kuruma {
+    width: 400px;
+    height:400px;
+    border: 1px solid;
+    border-color: #C0C0C0;
+    margin:50px 50px 0px 0px;
+}
+.aozora {
+    width: 400px;
+    height:400px;
+    border: 1px solid;
+    border-color: #C0C0C0;
+    margin:50px 50px 0px 0px;
+}
+.asagao {
+    width: 400px;
+    height:400px;
+    border: 1px solid;
+    border-color: #C0C0C0;
+    margin:50px 50px 0px 0px;
+}
+.uma {
+    width: 400px;
+    height:400px;
+    border: 1px solid;
+    border-color: #C0C0C0;
+    margin:50px 50px 0px 0px;
+}
+.picture {
+    width:80%;
+    hight:70%;
+    margin-top: 20px;
+    margin-left: 30px;
+}
